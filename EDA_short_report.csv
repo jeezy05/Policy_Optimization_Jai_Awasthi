@@ -1,0 +1,5 @@
+aspect,value
+target_positive_rate,0.15691632910325584
+top_missing_cols,"['member_id', 'desc', 'orig_projected_additional_accrued_interest', 'hardship_status', 'hardship_last_payment_amount', 'hardship_length', 'payment_plan_start_date', 'hardship_reason', 'deferral_term', 'hardship_amount']"
+top_skewed_numeric,"{'tot_coll_amt': 506.75705226586257, 'delinq_amnt': 96.87313500746183, 'num_tl_120dpd_2m': 62.68452178717996, 'annual_inc': 48.971488237538644, 'total_rev_hi_lim': 38.15342086445622, 'tax_liens': 32.13898504182973, 'dti': 30.078595642460698, 'acc_now_delinq': 27.86441306234618, 'num_tl_30dpd': 21.716351430081964, 'total_rec_late_fee': 19.62747599025733}"
+high_cardinality_categoricals,"['id', 'emp_title', 'url', 'zip_code', 'earliest_cr_line', 'sec_app_earliest_cr_line']"
